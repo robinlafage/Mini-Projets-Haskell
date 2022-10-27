@@ -1,5 +1,6 @@
 # CS212
 TPs de CS212 - Haskell
-Les codes fonctionnent sans bugs, et viennent avec les tests.
+Les codes fonctionnent sans bugs.
+Les TP 2 et 3viennent avec les tests.
 
-Le TP1 est encore au format .odt pour le moment, je le mettrai en .hs prochainement.
+"#!/usr/bin/env ghci" au début de chaque fichier pour permettre de l'executer en dehors de ghci.
