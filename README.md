@@ -1,5 +1,7 @@
 # CS212
-TPs de CS212 - Haskell
+TPs de CS212 - Haskell 
+Par Gabin Chognot et Robin Lafage.
+
 Les codes fonctionnent sans bugs.
 Les TP 2 et 3viennent avec les tests.
 
